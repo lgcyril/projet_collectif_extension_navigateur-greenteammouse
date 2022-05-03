@@ -1,0 +1,26 @@
+html body {
+    /* background: url(https://adatechschool.fr/wp-content/uploads/2020/02/ada-tech-school-une-tech-humaine-1.png); */
+    font-size: xx-large;
+}
+
+p {    
+    font-size: xx-large;
+    font-display: red;
+}
+
+h1  {
+
+        /* "BIENVENUE CHEZ GREEN TEAM MOUSE !!!"; */
+        color : green;
+}
+
+h2  {
+
+    /* "BIENVENUE CHEZ GREEN TEAM MOUSE !!!"; */
+    color : orange;
+}
+
+img {
+    border: 2px solid yellow;
+
+}
