@@ -31,7 +31,7 @@
                 "https://*/*"
             ],
             "js": [
-                "js/hello.js"
+                "js/search.js"
             ],
             "css": [
                 "css/style.css"
