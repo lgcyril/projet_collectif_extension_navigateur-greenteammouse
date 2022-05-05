@@ -26,7 +26,7 @@ researchWord();
 
 //}
 let changeColor ='<span style="color:red">' + forbiddenWord[0][0] + '</span>'
-document.body.innerHTML=document.body.innerHTML.replaceAll(forbiddenWord[0][0], changeColor);
+document.body.innerText=document.body.innerText.replaceAll(forbiddenWord[0][0], changeColor);
 //document.body.innerHTML = document.body.innerHTML.replaceAll('forbiddenWord', '<span style="color:red">interdit</span>');
 
 
