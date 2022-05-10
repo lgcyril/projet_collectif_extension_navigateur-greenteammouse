@@ -32,7 +32,7 @@
             ],
             "js": [
                 "js/search.js"
-            ],
+                ],
             "css": [
                 "css/style.css"
             ]
